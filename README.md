@@ -20,10 +20,19 @@ README.md -> this file
 
 
 ## Data Source
-**Our World in Data (OWID) COVID-19 dataset**  
-- GitHub: `owid/covid-19-data`  
-- Metrics used: new/total **cases & deaths per million** (7-day smoothed), **hospital/ICU admissions**, **vaccination coverage**, **Oxford stringency index**.  
-- Time window: **Jan 2020 – Dec 2024**.
+
+- **Our World in Data (OWID) – COVID-19 dataset**  
+  GitHub: [owid/covid-19-data](https://github.com/owid/covid-19-data)
+
+  **Fields used (examples):**
+  - `new_cases_smoothed_per_million`, `new_deaths_smoothed_per_million`
+  - vaccination coverage (e.g., `people_fully_vaccinated_per_hundred`)
+  - hospital/ICU admissions (where available)
+  - policy `stringency_index`
+
+  **Window covered:** Jan 2020 – Dec 2024  
+  **Attribution:** Data compiled and maintained by **Our World in Data (OWID)**.
+
 
 ## How to View the Dashboard
 1) Download the TWBX from `tableau/`.  
