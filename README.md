@@ -45,6 +45,18 @@ GitHub: [owid/covid-19-data](https://github.com/owid/covid-19-data)
 - **Continental roll-ups** for high-level comparisons; country selections (e.g., Peru, Bulgaria, Brazil, Hungary, UK, USA, India, Singapore, North Macedonia) illustrate different patterns.
 - **Annotation-first design:** captions explain how to read each chart; emphasis on **rates** (not cumulative totals).
 
+## Gallery (more views)
+
+- **Stringency vs deaths by continent (2020–2022)**  
+  ![Stringency vs deaths by continent](images/StringencyVsCovid19Deaths_byContinent_2020to2022.png)
+
+- **Vaccination, hospital pressure & deaths (2021–2023)**  
+  ![Vaccination, hospital pressure & deaths](images/Vaccination,HopsitalPressure&Covid19Deaths_2021to2023.png)
+
+- **Global spread — average new cases & deaths per million (2020–2024)**  
+  ![Global COVID-19 spread](images/Global_Covid-19_Spread_AvgNewCases&DeathsPerMillion_2020to2024_Animation.png)
+
+
 ## Notes & Limits
 - **Data quality varies** by country & period (testing/reporting regime changes, backfills, reclassifications).
 - **Cases vs deaths are not directly comparable** across places or waves (testing access, age structure, variants, and healthcare strain differ).
