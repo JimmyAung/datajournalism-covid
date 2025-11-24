@@ -55,7 +55,7 @@ datajournalism-covid/
 └── README.md             # This file
 ```
 
-**Note:** Raw data files are not included in this repository due to size constraints. See the Data Sources section below for information on obtaining the source data.
+**Note:** Raw data files are not included in this repository due to size constraints (approx. 50-100 MB for complete datasets in CSV/JSON format). See the Data Sources section below for information on obtaining the source data.
 
 ## Data Sources
 
